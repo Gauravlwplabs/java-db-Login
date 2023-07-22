@@ -9,9 +9,9 @@ import java.sql.SQLException;
 public class DbUtil {
 	static Connection con=null;
 	static String driver = "com.mysql.cj.jdbc.Driver";
-	static String url = "jdbc:mysql://lwplabs.cojh5a5pj8rf.us-east-1.rds.amazonaws.com:3306/lwplabs";
-	static String username = "master";
-	static String password = "welcome1";
+	static String url = "jdbc:mysql://terraform-20230722020810495900000007.cmc7ylectqgk.us-east-1.rds.amazonaws.com:3306/terraform-20230722020810495900000007";
+	static String username = "admin";
+	static String password = "adminadmin";
 	
 	static {
 		try {
