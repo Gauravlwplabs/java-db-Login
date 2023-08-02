@@ -10,15 +10,15 @@
   </context-param>
   <context-param>
     <param-name>dbPassword</param-name>
-    <param-value>adminadmin</param-value>
+    <param-value>admin123</param-value>
   </context-param>
   <context-param>
     <param-name>dbURL</param-name>
-    <param-value>jdbc:mysql://terraform-20230722020810495900000007.cmc7ylectqgk.us-east-1.rds.amazonaws.com:3306</param-value>
+    <param-value>jdbc:mysql://terraform-20230802062557870500000006.cmc7ylectqgk.us-east-1.rds.amazonaws.com:3306</param-value>
   </context-param>
   <context-param>
     <param-name>dbName</param-name>
-    <param-value>terraform-20230722020810495900000007</param-value>
+    <param-value>terraform-20230802062557870500000006</param-value>
   </context-param>
   <servlet>
   	<servlet-name>LoginServlet</servlet-name>
