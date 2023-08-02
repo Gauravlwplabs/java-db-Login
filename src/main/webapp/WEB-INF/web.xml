@@ -18,7 +18,7 @@
   </context-param>
   <context-param>
     <param-name>dbName</param-name>
-    <param-value>terraform-20230802062557870500000006</param-value>
+    <param-value>lwplabs</param-value>
   </context-param>
   <servlet>
   	<servlet-name>LoginServlet</servlet-name>
