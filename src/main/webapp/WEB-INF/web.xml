@@ -14,11 +14,11 @@
   </context-param>
   <context-param>
     <param-name>dbURL</param-name>
-    <param-value>jdbc:mysql://terraform-20230802062557870500000006.cmc7ylectqgk.us-east-1.rds.amazonaws.com:3306</param-value>
+    <param-value>jdbc:mysql://terraform-20230829164439920500000001.cetiqg79dg9j.us-east-1.rds.amazonaws.com:3306</param-value>
   </context-param>
   <context-param>
     <param-name>dbName</param-name>
-    <param-value>lwplabs</param-value>
+    <param-value>flipkart</param-value>
   </context-param>
   <servlet>
   	<servlet-name>LoginServlet</servlet-name>
